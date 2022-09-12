@@ -21,11 +21,9 @@ margin-top: 0px;
 margin-bottom: 1px;
 }
 ul {
-    width: 100%;
-    display: inline-block;
     list-style-type: none;
-    padding: 13px;
-    margin: 17px;
+    margin: 0px;
+    padding: 0px;
     background-color: #e3e4db;
 
 }
@@ -34,7 +32,6 @@ li {
     float: right;
     color: #e08e45;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 14px;
     font-weight: lighter;
 
 }
