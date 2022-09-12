@@ -29,3 +29,9 @@ ul {
     background-color: #e3e4db;
 
 }
+li {
+    float: right;
+    list-style-type: none;
+    display: inline;
+    color: #e08e45;
+}
