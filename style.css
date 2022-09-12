@@ -26,12 +26,3 @@ ul {
     background-color: #e3e4db;
 
 }
-li {
-    display: inline;
-    float: right;
-    color: #e08e45;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: lighter;
-    margin: 17px;
-    padding: 14px;
-}
