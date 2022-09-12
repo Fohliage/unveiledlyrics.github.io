@@ -1,11 +1,21 @@
-body {background-color: #e3e4db;}
+body {
+    background-color: #e3e4db;
+}
 
 h1 {
     text-align: center;
     color: #e08e45;
     font-family: 'Courier New', Courier, monospace;
     font-size: 33px;
-    font-weight: bold;
+    font-weight: bolder;
     margin-top: 0px;
     margin-bottom: 1px;
+}
+h2 {
+text-align: center;
+color: #353531;
+font-family: 'Courier New', Courier, monospace;
+font-size: 17px;
+font-weight: bold;
+
 }
