@@ -22,7 +22,6 @@ margin-bottom: 1px;
 }
 ul {
     width: 100%;
-    float: right;
     padding: 13px;
     margin: 17px;
     background-color: #e3e4db;
@@ -30,6 +29,7 @@ ul {
 }
 li {
     display: inline;
+    float: right;
     color: #e08e45;
     font-family: 'Courier New', Courier, monospace;
     font-size: 14px;
