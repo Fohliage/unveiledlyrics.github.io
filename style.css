@@ -1,11 +1,9 @@
-.header {
-    box-sizing: content-box;
-    display: block;
-    float: none;
-    line-height: 21px;
-    position: fixed;
-    z-index: 1000;
-width: 100%;
-height: 46px;
-color: black;
+h1 {
+    text-align: center;
+    color: #e08e45;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
 }
