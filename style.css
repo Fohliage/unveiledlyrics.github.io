@@ -20,3 +20,18 @@ font-weight: bold;
 margin-top: 0px;
 margin-bottom: 1px;
 }
+ul {
+    float: right;
+    display: inline;
+    padding: 13px;
+    margin: 17px;
+    background-color: #e3e4db;
+
+}
+li {
+    color: #e08e45;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-weight: lighter;
+    
+}
