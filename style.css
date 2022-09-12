@@ -23,8 +23,6 @@ margin-bottom: 1px;
 ul {
     list-style-type: none;
     width: 100%;
-    margin: 17px;
-    padding: 14px;
     background-color: #e3e4db;
 
 }
@@ -34,5 +32,6 @@ li {
     color: #e08e45;
     font-family: 'Courier New', Courier, monospace;
     font-weight: lighter;
-
+    margin: 17px;
+    padding: 14px;
 }
