@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 body {
-    background-color: #353531;
+    background-color: #f4f5f1;
+    margin: 0;
+    padding: 0;
 }
 
 header {
     box-sizing: border-box;
     margin: 0;
-    padding: 30px 10%;
+    padding: 10px 7%;
     background-color: #353531;
     display: flex;
     justify-content: flex-end;
@@ -20,12 +22,47 @@ li, a, button {
     font-size: 17px;
     color: #e3e4db;
     text-decoration: none;
+    list-style: none;
 }
 
 
 .logo {
     cursor: pointer;
     margin-right: auto;
+    font-size: 27px;
+}
+
+.search-box {
+    position: relative;
+    background: #e3e4db;
+    height: 22px;
+    border-radius: 40px;
+    padding: 13px;
+  
+}
+
+.search-btn {
+    color: #e08e45;
+    float: right;
+    width: 33px;
+    height: 26px;
+    border-radius: 20px;
+    background-color: #e3e4db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: #e08e45;
+    font-size: 17px;
+    line-height: 13px;
+    width: 280px;
 }
 
 .nav_links {
@@ -60,3 +97,4 @@ button {
 button:hover {
     background-color: #e08e45;
 }
+
