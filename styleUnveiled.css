@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+    
 body {
     background-color: #f4f5f1;
     margin: 0;
@@ -37,7 +38,7 @@ li, a, button {
     background: #e3e4db;
     height: 22px;
     border-radius: 40px;
-    padding: 13px;
+    padding: 11px;
   
 }
 
@@ -45,7 +46,7 @@ li, a, button {
     color: #e08e45;
     float: right;
     width: 33px;
-    height: 26px;
+    height: 21px;
     border-radius: 20px;
     background-color: #e3e4db;
     display: flex;
@@ -62,7 +63,7 @@ li, a, button {
     color: #e08e45;
     font-size: 17px;
     line-height: 13px;
-    width: 280px;
+    width: 444px;
 }
 
 .nav_links {
