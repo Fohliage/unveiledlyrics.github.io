@@ -98,3 +98,6 @@ button:hover {
     background-color: #7ddf64;
 }
 
+img  {
+    float: left;
+}
