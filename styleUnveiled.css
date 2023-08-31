@@ -60,7 +60,7 @@ li, a, button {
     outline: none;
     float: left;
     padding: 0;
-    color: #6C91C2;
+    color: #7ddf64;
     font-size: 17px;
     line-height: 13px;
     width: 444px;
@@ -80,7 +80,7 @@ padding: 0px 20px;
 }
 
 .nav_links li a:hover {
-color: #6C91C2;
+color: #7ddf64;
 
 }
 
@@ -96,6 +96,6 @@ button {
 }
 
 button:hover {
-    background-color: #6C91C2;
+    background-color: #7ddf64;
 }
 
