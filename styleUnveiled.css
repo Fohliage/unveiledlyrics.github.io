@@ -1,11 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
     
-body {
-    background-color: #383d3b;
-    margin: 0;
-    padding: 0;
-}
 
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  section {
+    flex: 1;
+    background-color: #f1f1f1;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .left-section {
+    margin-right: 10px;
+  }
+  
+  .center-section {
+    margin: 0 10px;
+  }
+  
+  .right-section {
+    margin-left: 10px;
+  }
 header {
     box-sizing: border-box;
     margin: 0;
@@ -99,28 +118,3 @@ button:hover {
     background-color: #7ddf64;
 }
 
-main {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-  }
-  
-  section {
-    flex: 1;
-    background-color: #f1f1f1;
-    padding: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  .left-section {
-    margin-right: 10px;
-  }
-  
-  .center-section {
-    margin: 0 10px;
-  }
-  
-  .right-section {
-    margin-left: 10px;
-  }
-  
