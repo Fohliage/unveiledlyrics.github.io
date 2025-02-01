@@ -28,7 +28,7 @@ li, a, button {
 
 .logo {
     cursor: pointer;
-    margin: 0em auto;
+    margin: 5px auto auto 5px;
     font-size: 33px;
 }
 
