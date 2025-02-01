@@ -32,6 +32,9 @@ li, a, button {
     font-size: 33px;
 }
 
+img {
+    display: inline;
+}
 .search-box {
     position: relative;
     background: #e3e4db;
