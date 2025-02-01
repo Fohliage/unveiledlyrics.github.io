@@ -97,9 +97,3 @@ button {
 button:hover {
     background-color: #7ddf64;
 }
-
-img  {
-    float: left;
-    padding-top: 5%;
-    padding-left: 5%;
-}
